@@ -1,16 +1,24 @@
 # Hi, I'm Daksh Panwar 👋
 
 ## About Me
-Python Developer | Data Analyst Aspirant | AI/ML Enthusiast
+🎓 B.Tech CSE (AI & ML) Student  
+📊 Aspiring Data Analyst  
+🤖 AI/ML Enthusiast  
+🚀 Passionate about learning, building, and solving problems
 
-## Currently Learning
-Python, DSA, Machine Learning, and Generative AI
+## Building Skills In
+Python, Data Structures & Algorithms, Machine Learning, and Generative AI
 
 ## Tech Stack
 Python • SQL • Power BI • Git • GitHub
 
 ## Goal
-Building projects and improving my problem-solving skills every day.
+Building projects, strengthening problem-solving skills, and preparing for a career in Data Analytics and AI.
 
 ## Connect
-GitHub | LinkedIn | Email
+🔗 GitHub: https://github.com/Daksh-Panwar  
+💼 LinkedIn: https://www.linkedin.com/in/daksh-panwar  
+📧 Email: dakshpanwar781@gmail.com
+
+---
+⭐ Learning something new every day.
