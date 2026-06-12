@@ -2,7 +2,6 @@
 
 ## About Me
 🎓 B.Tech CSE (AI & ML) Student  
-📊 Aspiring Data Analyst  
 🤖 AI/ML Enthusiast  
 🚀 Passionate about learning, building, and solving problems
 
@@ -13,7 +12,7 @@ Python, Data Structures & Algorithms, Machine Learning, and Generative AI
 Python • SQL • Power BI • Git • GitHub
 
 ## Goal
-Building projects, strengthening problem-solving skills, and preparing for a career in Data Analytics and AI.
+Building projects, strengthening problem-solving skills, and preparing for a career in Data Science and AI.
 
 ## Connect
 🔗 GitHub: https://github.com/Daksh-Panwar  
